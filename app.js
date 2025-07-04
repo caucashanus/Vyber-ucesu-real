@@ -4,7 +4,7 @@ const canvasElement = document.getElementById('overlay');
 const canvasCtx = canvasElement.getContext('2d');
 
 const hairImage = new Image();
-hairImage.src = 'images/uces-demo.png'; // Vlož si sem svůj účes v PNG
+hairImage.src = 'images/pero.png'; // Vlož si sem svůj účes v PNG
 
 let videoWidth = 0;
 let videoHeight = 0;
